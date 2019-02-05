@@ -31,5 +31,3 @@ end
 def length_of_array(array)
   return array.length
 end
-
-  
