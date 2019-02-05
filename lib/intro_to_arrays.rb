@@ -13,9 +13,9 @@ def first_element(array)
 end
 
 def third_element(array)
-  return[2]
+  return array[2]
 end
 
 def last_element(array)
-  return[-1]
+  return array[-1]
 end
