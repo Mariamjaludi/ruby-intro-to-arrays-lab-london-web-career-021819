@@ -19,4 +19,3 @@ end
 def last_element(array)
   return(-1)
 end
-
